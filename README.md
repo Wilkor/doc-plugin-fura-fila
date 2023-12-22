@@ -51,7 +51,7 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
   
   Video de demostração: :point_down:
   
-  https://vimeo.com/manage/videos/784653883/e14e1b70b5
+  https://youtu.be/67ISTYES_mw?si=83fvJ-XnKIdmxxxH
   
    Video com demonstração de transferência para um bloco :point_down:
 
