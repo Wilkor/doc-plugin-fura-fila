@@ -1,5 +1,4 @@
-![N|Solid](https://raw.githubusercontent.com/Wilkor/img-clonebots/main/logoParseHorizontal.jpeg)
-
+![WhatsApp Image 2024-01-15 at 10 46 51](https://github.com/Wilkor/doc-plugin-fura-fila/assets/34819624/acaf6e2b-c51c-435d-ae54-becbc8fe0b47)
 
 # Como utilizar a extensão Fura fila!
 
