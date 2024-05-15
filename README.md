@@ -55,7 +55,11 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
    Video com demonstração de transferência para um bloco :point_down:
 
 
-  **Observação** Importante usar a URL correta do BlipDesk, por exemplo: https://{{contrato}}.desk.blip.ai/
+  **Observação1** Importante usar a URL correta do BlipDesk, por exemplo: https://{{contrato}}.desk.blip.ai/
+
+  **Observação2** 
+
+ ![image](https://github.com/Wilkor/doc-plugin-fura-fila/assets/34819624/91995b0b-e88a-41d3-b4c3-c9d8ba182db1)
 
  
   Em caso de dúvidas, você pode entrar em contato conosco para tirar qualquer tipo de dúvida sobre a configuração da extensão
