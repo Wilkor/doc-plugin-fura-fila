@@ -59,7 +59,7 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
 
   **Observação2** 
 
- ![image](https://github.com/Wilkor/doc-plugin-fura-fila/assets/34819624/91995b0b-e88a-41d3-b4c3-c9d8ba182db1)
+![image](https://github.com/Wilkor/doc-plugin-fura-fila/assets/34819624/c17e4308-44a4-4c37-9ac2-e21ee6bf0c0a)
 
  
   Em caso de dúvidas, você pode entrar em contato conosco para tirar qualquer tipo de dúvida sobre a configuração da extensão
